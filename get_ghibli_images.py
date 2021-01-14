@@ -1,7 +1,7 @@
 from scenedetect import VideoManager
 from scenedetect import SceneManager
 from cv2 import cv2
-import os
+import os 
 
 from scenedetect.detectors import ContentDetector
 
