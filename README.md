@@ -20,11 +20,3 @@ d1[0.002,0.028] d2[0.073,0.035] g[2.486,3.182]
 ![5](./results/1.png)
 
 ![4](./results/3.png)
-
-**Early results - after ~20 epochs:**
-
-![0](./results/early_0.png)
-
-![4](./results/early_1.png)
-
-![5](./results/early_3.png)
