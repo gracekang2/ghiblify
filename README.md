@@ -5,7 +5,7 @@
 
 **Results:**
 
-- After around 65+ epochs of training, losses converged to an equilibrium of around:
+- After around 75 epochs of training, losses converged to an equilibrium of around:
 
 ```
 d1[0.002,0.028] d2[0.073,0.035] g[2.486,3.182]
@@ -13,7 +13,7 @@ d1[0.002,0.028] d2[0.073,0.035] g[2.486,3.182]
 
 - (Discriminator 1, 2, and generator losses, respectively.)
 
-**After ~65 epochs:**
+**After ~75 epochs:**
 
 ![0](./results/0.png)
 
