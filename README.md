@@ -5,39 +5,26 @@
 
 **Results:**
 
-**After ~65 epochs:**
-
-![0](C:\Users\grace\Desktop\Files\Projects\Ghiblify\results\0.png)
-
-![1](C:\Users\grace\Desktop\Files\Projects\Ghiblify\results\1.png)
-
-![3](C:\Users\grace\Desktop\Files\Projects\Ghiblify\results\3.png)
-
-![4](C:\Users\grace\Desktop\Files\Projects\Ghiblify\results\4.png)
-
-![5](C:\Users\grace\Desktop\Files\Projects\Ghiblify\results\5.png)
-
-**After ~40 epochs:**
-
-![mid_0](C:\Users\grace\Desktop\Files\Projects\Ghiblify\results\mid_0.png)
-
-![mid_1](C:\Users\grace\Desktop\Files\Projects\Ghiblify\results\mid_1.png)
-
-![mid_3](C:\Users\grace\Desktop\Files\Projects\Ghiblify\results\mid_3.png)
-
-![mid_4](C:\Users\grace\Desktop\Files\Projects\Ghiblify\results\mid_4.png)
-
-![mid_5](C:\Users\grace\Desktop\Files\Projects\Ghiblify\results\mid_5.png)
-
 **After ~20 epochs:**
 
-![early_0](C:\Users\grace\Desktop\Files\Projects\Ghiblify\results\early_0.png)
+![0](./results/early_0.png)
 
-![early_1](C:\Users\grace\Desktop\Files\Projects\Ghiblify\results\early_1.png)
+![1](./results/early_1.png)
 
-![early_3](C:\Users\grace\Desktop\Files\Projects\Ghiblify\results\early_3.png)
+![3](./results/early_3.png)
 
-![early_4](C:\Users\grace\Desktop\Files\Projects\Ghiblify\results\early_4.png)
+![4](./results/early_4.png)
 
-![early_5](C:\Users\grace\Desktop\Files\Projects\Ghiblify\results\early_5.png)
+![5](./results/early_5.png)
 
+**After ~65 epochs:**
+
+![0](./results/0.png)
+
+![1](./results/1.png)
+
+![3](./results/3.png)
+
+![4](./results/4.png)
+
+![5](./results/5.png)
