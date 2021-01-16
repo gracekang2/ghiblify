@@ -1,6 +1,6 @@
 #### A fun GAN exploration!
 
-- GAN implementation using Tensorflow / Keras, based on CycleGAN architecture, designed to transform landscape photos into animations
+- GAN implementation using Tensorflow / Keras, based on CycleGAN architecture, designed to transform photos into animation-style images
 - Landscape photos were collected from flickr, animated photos were collected using python, scenedetect and Studio Ghibli trailers / compilation videos found on YouTube
 
 **Results:**
@@ -21,12 +21,10 @@ d1[0.002,0.028] d2[0.073,0.035] g[2.486,3.182]
 
 ![4](./results/3.png)
 
-![5](./results/5.png)
-
 **Early results - after ~20 epochs:**
 
 ![0](./results/early_0.png)
 
 ![4](./results/early_1.png)
 
-![5](./results/early_5.png)
+![5](./results/early_3.png)
